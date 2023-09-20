@@ -1,7 +1,7 @@
 <div align="center">  
-<h1>✨ About Me</h1>
-<a>• 🎨 Digital Designer</a><br>
-<a>• 🖊️ Beginner programmer</a><br> 
+<h1> 🏀 About Me</h1>
+<a>• 👓 Digital Designer</a><br>
+<a>• 👨‍💻 Beginner programmer</a><br> 
 <a>• 📅 16yo (12-19-06)</a><br>
 <a>• 💻Attending Systems Development(2/3).</a>
 
@@ -55,11 +55,12 @@
 [![Discord Presence](https://lanyard.cnrad.dev/api/746360608617791550)](https://discord.com/users/746360608617791550)
 
 
+<a href="https://www.youtube.com/channel/UCC-sRPoRjUe1S6Dc3A42wig"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
 <a href="https://twitter.com/Altiar38600672"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+<a href="https://www.twitch.tv/juninh0bw"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"></a>
 <a href="https://www.instagram.com/juninh0bw/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="https://discord.gg/7sxz2yTp3f"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
-<a href="https://www.youtube.com/channel/UCC-sRPoRjUe1S6Dc3A42wig"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
-<a href="https://www.twitch.tv/juninh0bw"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"></a>
+
   
   
   
