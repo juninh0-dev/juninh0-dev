@@ -3,7 +3,7 @@
 <a>• 👓 Digital Designer</a><br>
 <a>• 👨‍💻 Beginner programmer</a><br> 
 <a>• 📅 17yo (12-19-06)</a><br>
-<a>• 💻Attending Systems Development(2/3).</a>
+<a>• 💻Attending Systems Development(3/3).</a>
 
   
 ## ✏️ Learning
