@@ -37,8 +37,13 @@
 
 
 ### Utilities  
-<div align="center">   
-<p> Nothing yet </p>
+<div align="center">  
+<img style="margin: 10px" src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" alt="Git" height="50" /> 
+<img style="margin: 10px" src="https://github.com/user-attachments/assets/11e00904-0464-4afc-893b-e1d43d4f7fd6" alt="Windows" height="45" />
+
+  
+ 
+
 </div>
 </td></tr></table>  
 <br/>  
