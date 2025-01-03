@@ -3,7 +3,7 @@
 <a>• 👓 Digital Designer</a><br>
 <a>• 👨‍💻 Beginner programmer</a><br> 
 <a>• 📅 18yo (12-19-06)</a><br>
-<a>• 💻Graduated in Technician in Systems Development Analysis.</a>
+<a>• 💻Graduated in Technician in Systems Development.</a>
 
   
 ## ✏️ Learning
