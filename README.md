@@ -83,6 +83,6 @@
 
   <div align="center">
     <h3>It's not the programming language that defines the programmer, but their logic.</h3>
-    <p>"Não é a linguagem de programação que define o programador, mas a sua lógica."</p>
+    <p>"Não é a linguagem de programação que define o programador, mas sim a sua lógica."</p>
   </div>
 
