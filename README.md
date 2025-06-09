@@ -1,9 +1,9 @@
 <div align="center">  
 <h1> 👨‍💻 About Me</h1>
+<a>• 👨‍💻 Software Developer</a><br> 
 <a>• 👓 Digital Designer</a><br>
-<a>• 👨‍💻 Beginner programmer</a><br> 
 <a>• 📅 18yo (12-19-06)</a><br>
-<a>• 💻Graduated in Technician in Systems Development.</a>
+<a>• 💻Studying Multiplatform Software Development.</a>
 
   
 ## ✏️ Learning
