@@ -12,28 +12,14 @@
 
 
 ### Frontend
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50"/> 
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50"/> <br>
-<img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JS" height="45" width="50"/> 
-<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="REACT" height="45" width="50"/><br>
-<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="REACT" height="45" width="50"/>
-<img style="margin: 10px" src="https://www.svgrepo.com/show/374118/tailwind.svg" alt="REACT" height="50" width="50" />
+<div align="center"> <!-- Linha 1 --> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50"/> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50"/> <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JS" height="45" width="50"/> <br> <!-- Linha 2 --> <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="React" height="45" width="50"/> <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="Bootstrap" height="45" width="50"/> <img style="margin: 10px" src="https://www.svgrepo.com/show/374118/tailwind.svg" alt="Tailwind" height="50" width="50"/> </div>
 
 </td><td valign="top" width="33%">
 
 
 
 ### Backend
-<div diplay="flex" align="center">  
-
-<img style="margin: 10px" src="https://imgs.search.brave.com/GE84yJEy6B6JC8xdz6bD_Ablv-kjbGmbtH6CilnYcgQ/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/c3ZncmVwby5jb20v/c2hvdy8xODQxNDMv/amF2YS5zdmc" alt="Java" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" />
-</div>
-
+<div align="center"> <!-- Linha 1 --> <img style="margin: 10px" src="https://imgs.search.brave.com/GE84yJEy6B6JC8xdz6bD_Ablv-kjbGmbtH6CilnYcgQ/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/c3ZncmVwby5jb20v/c2hvdy8xODQxNDMv/amF2YS5zdmc" alt="Java" height="50"/> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50"/> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50"/> <br> <!-- Linha 2 --> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50"/> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50"/> </div>
 </td><td valign="top" width="33%">
 
 
