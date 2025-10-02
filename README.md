@@ -19,7 +19,7 @@
 
 
 ### Backend
-<div align="center"> <!-- Linha 1 --> <img style="margin: 10px" src="https://imgs.search.brave.com/GE84yJEy6B6JC8xdz6bD_Ablv-kjbGmbtH6CilnYcgQ/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/c3ZncmVwby5jb20v/c2hvdy8xODQxNDMv/amF2YS5zdmc" alt="Java" height="50"/> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50"/> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50"/> <br> <!-- Linha 2 --> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50"/> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50"/> </div>
+<div align="center"> <!-- Linha 1 --> <img style="margin: 10px" src="https://imgs.search.brave.com/GE84yJEy6B6JC8xdz6bD_Ablv-kjbGmbtH6CilnYcgQ/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/c3ZncmVwby5jb20v/c2hvdy8xODQxNDMv/amF2YS5zdmc" alt="Java" height="50"/> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50"/> <br> <!-- Linha 2 --> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50"/> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50"/> </div>
 </td><td valign="top" width="33%">
 
 
