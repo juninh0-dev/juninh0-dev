@@ -1,76 +1,83 @@
-<div align="center">  
-<h1> 👨‍💻 About Me</h1>
-<a>• 👨‍💻 Software Developer</a><br> 
-<a>• 👓 Digital Designer</a><br>
-<a>• 📅 18yo (12-19-06)</a><br>
-<a>• 💻Studying Multiplatform Software Development.</a>
+# 👨‍💻 Altair (juninh0-dev) — Software Developer  
 
-  
-## ✏️ Learning
-<table><tr><td valign="top" width="33%">
+<p align="center">
+  <i>Code is never finished. It only evolves.</i>
+</p>
 
+---
 
+## 🧠 Who Am I?
 
-### Frontend
-<div align="center"> <!-- Linha 1 --> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50"/> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50"/> <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JS" height="45" width="50"/> <br> <!-- Linha 2 --> <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="React" height="45" width="50"/> <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="Bootstrap" height="45" width="50"/> <img style="margin: 10px" src="https://www.svgrepo.com/show/374118/tailwind.svg" alt="Tailwind" height="50" width="50"/> </div>
+I’m a **Software Developer** currently studying **Multiplatform Software Development**, focused on building solid, functional, and well-structured applications.  
+I enjoy transforming ideas into real solutions through code, always seeking to improve my logic, organization, and technical maturity.
 
-</td><td valign="top" width="33%">
+My journey in technology is driven by **curiosity, consistency, and practice**.  
+More than learning languages, I focus on understanding **how systems work**, how to structure solutions, and how to grow as a developer step by step.
 
+> *It’s not the programming language that defines the programmer, but their logic.*
 
+---
 
-### Backend
-<div align="center"> <!-- Linha 1 --> <img style="margin: 10px" src="https://imgs.search.brave.com/GE84yJEy6B6JC8xdz6bD_Ablv-kjbGmbtH6CilnYcgQ/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/c3ZncmVwby5jb20v/c2hvdy8xODQxNDMv/amF2YS5zdmc" alt="Java" height="50"/> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50"/> <br> <!-- Linha 2 --> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50"/> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50"/> </div>
-</td><td valign="top" width="33%">
+## 🔥 What I’m Focused On
+- Strengthening **software logic and architecture**
+- Improving **front-end development** with clean and responsive interfaces
+- Expanding **back-end knowledge** and database integration
+- Building projects that reflect **real learning**, not just tutorials
 
+---
 
+## 🧩 Tech Stack
 
-### Utilities  
-<div align="center">  
-<img style="margin: 10px" src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" alt="Git" height="50" /> 
-<img style="margin: 10px" src="https://github.com/user-attachments/assets/11e00904-0464-4afc-893b-e1d43d4f7fd6" alt="Windows" height="45" />
+### 🎨 Front-end
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" height="45"/>
+  <img src="https://www.svgrepo.com/show/374118/tailwind.svg" height="45"/>
+</p>
 
-  
- 
+---
 
-</div>
-</td></tr></table>  
-<br/>  
-<h2></h2>
-  
-</div>
+### ⚙️ Back-end
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="45"/>
+</p>
 
-<div align="center">  
-  
-<img height="200em" src="http://github-readme-streak-stats.herokuapp.com?user=juninh0-dev&theme=algolia"/> <br>
+---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juninh0-dev&layout=compact&theme=algolia)]()
-  
-</div>
-<div align="center">
-<h2>Social Networks</h2>
+### 🛠 Tools & Utilities
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" height="45"/>
+  <img src="https://img.icons8.com/color/48/windows-10.png" height="45"/>
+</p>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/746360608617791550)](https://discord.com/users/746360608617791550)
+---
 
+## 📊 GitHub Activity
+Under construction
 
-<a href="https://www.youtube.com/channel/UCC-sRPoRjUe1S6Dc3A42wig"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
-<a href="https://twitter.com/Altiar38600672"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-<a href="https://www.twitch.tv/juninh0bw"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"></a>
-<a href="https://www.instagram.com/juninh0bw/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href="https://discord.gg/7sxz2yTp3f"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
+---
 
-  
-  
-  
+## 🌐 Connect With Me
+<p align="center">
+  <a href="https://www.linkedin.com">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://discord.com/users/746360608617791550">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
+  <a href="https://www.youtube.com/channel/UCC-sRPoRjUe1S6Dc3A42wig">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/juninh0bw/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</p>
 
-  
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=juninh0-dev&&style=flat-square" align="center" />
-</div>  
-
-<br />
-
-  <div align="center">
-    <h3>It's not the programming language that defines the programmer, but their logic.</h3>
-    <p>"Não é a linguagem de programação que define o programador, mas sim a sua lógica."</p>
-  </div>
-
+---
