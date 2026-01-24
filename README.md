@@ -25,6 +25,13 @@ More than learning languages, I focus on understanding **how systems work**, how
 - Building projects that reflect **real learning**, not just tutorials
 
 ---
+## 📊 GitHub Activity
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=juninh0-dev&theme=dark" alt="GitHub Streak"/>
+  </a>
+</p>
+
 
 ## 🧩 Tech Stack
 
@@ -58,16 +65,6 @@ More than learning languages, I focus on understanding **how systems work**, how
 </p>
 
 ---
-
-## 📊 GitHub Activity
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=juninh0-dev&theme=dark" alt="GitHub Streak"/>
-  </a>
-</p>
-
----
-
 ## 🌐 Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com">
