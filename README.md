@@ -60,7 +60,11 @@ More than learning languages, I focus on understanding **how systems work**, how
 ---
 
 ## 📊 GitHub Activity
-Under construction
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=juninh0-dev&theme=dark" alt="GitHub Streak"/>
+  </a>
+</p>
 
 ---
 
