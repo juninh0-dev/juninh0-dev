@@ -4,6 +4,10 @@
   <i>Code is never finished. It only evolves.</i>
 </p>
 
+<p align="center">
+  <img src="assets/banner.png" alt="Juninho Developer Banner" />
+</p>
+
 ---
 
 ## 🧠 Who Am I?
