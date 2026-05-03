@@ -53,8 +53,9 @@ More than learning languages, I focus on understanding **how systems work**, how
 
 ### ⚙️ Back-end
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="45"/>
+  
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" height="45"/>
+  <img src="https://imgs.search.brave.com/jKSv2JpEKWuNVbhEWwqP5SSRoCbWRZ_Ri-gnZKjNSbs/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/aWNvbnNjb3V0LmNv/bS9pY29uL2ZyZWUv/cG5nLTI1Ni9mcmVl/LW5vZGUtanMtaWNv/bi1zdmctZG93bmxv/YWQtcG5nLTExNzQ5/MzUucG5nP2Y9d2Vi/cCZ3PTEyOA" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="45"/>
 </p>
